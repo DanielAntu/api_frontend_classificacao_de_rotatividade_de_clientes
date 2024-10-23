@@ -1,0 +1,16 @@
+.result {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    background-color: #05056a;
+    color: white;
+    padding: 13px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.container-result .btn {
+    margin-top: 10px;
+}
